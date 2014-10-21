@@ -28,7 +28,6 @@
 
 @interface AppController : CCAppDelegate
 {
-    int *mainScene;
 }
 
 @end
